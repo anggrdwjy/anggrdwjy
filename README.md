@@ -5,7 +5,7 @@
 
 * 👨🏻‍💻 I'm a Network Engineer Since 2014 - Now Focused MPLS Domain
 * 💼 Work with Cacti Weathermap, Cisco, Huawei, Juniper, Mikrotik - 🥇 MTCNA and MTCRE 
-* 💙 Loving Linux, Bash Script, IP and OSPF Routing
+* 💙 Loving Linux, Bash, Python, IP and OSPF Routing
 
 ## 📖 I'm currently learning
 
