@@ -1,5 +1,5 @@
 
-<h2 align="left">👨🏻‍🚀 Hola, I'm Anggarda 
+<h2 align="left"> Hola, I'm Anggarda 👨🏻‍🚀
 
 ### 🤙🏻 About me
 
@@ -14,4 +14,5 @@
 * 💻 Cloud Engineering - AWS, Proxmox, Linux Container, KVM, Docker, Podman
 * 🧠 Internet of Things Embedded System - ESP32, ESP8266, MQTT Protocol
 * 🔐 Cyber Security - Penetration Testing, Network Security, Web Security, Linux Harderning
-* 🤖 I'm Enthusiast AI Engineering
+* 🤖 I'm Enthusiast AI Engineering - Python, Machine Learning, Deep Learning, Workflow
+
