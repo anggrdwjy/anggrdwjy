@@ -1,5 +1,5 @@
 
-<h2 align="left">Hola, I'm Anggarda 👨🏻‍🚀
+<h2 align="left">👨🏻‍🚀 Hola, I'm Anggarda 
 
 ### 🤙🏻 About me
 
