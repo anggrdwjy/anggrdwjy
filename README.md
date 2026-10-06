@@ -1,6 +1,7 @@
 
+<h3 align="center">Hey there, I'm Anggarda
 
-## About me
+## 📖 About me
 
 * 👨🏻‍💻 I'm a Network Engineer from 
 * 🛜 Work with Cisco, Huawei, Juniper, Mikrotik - Loving IP and OSPF Routing
