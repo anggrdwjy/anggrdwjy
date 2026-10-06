@@ -3,12 +3,13 @@
 
 ## 🤙🏻 About me
 
-* 👨🏻‍💻 I'm a Network Engineer - Focuse MPLS Architecture
+* 👨🏻‍💻 I'm a Network Engineer - Focuse MPLS Domain
 * 🛜 Work with Cisco, Huawei, Juniper, Mikrotik
 * 🩶 Loving IP Address and OSPF Routing
 
 ## 📖 I'm currently learning
 
+* 📡 Network Engineering - TCP/IP, VLAN, Spanning-Tree, DHCP, DNS, Quality of Service, RIP, OSPF, IS-IS, BGP, Firewall
 * 💻 Cloud Engineering - Proxmox, Linux Container, KVM, Docker, Podman
 * 🧠 Internet of Things Embedded System - ESP32, ESP8266
 * 🔐 Cyber Security - Penetration Testing, Network Security, Linux Harderning
