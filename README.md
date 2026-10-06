@@ -3,7 +3,7 @@
 
 ## 🤙🏻 About me
 
-* 👨🏻‍💻 I'm a Network Engineer Since 2014 - Now Focused MPLS Domain
+* 👨🏻‍💻 I'm a Network Engineer since 2014 - Now focused MPLS Domain
 * 💼 Work with Cacti Weathermap, Cisco, Huawei, Juniper, Mikrotik
 * 🥇 MTCNA and MTCRE Certified
 * 💙 Loving Linux, Bash, Python, IP and OSPF Routing
@@ -14,5 +14,5 @@
 * 💻 Cloud Engineering - AWS, Proxmox, Linux Container, KVM, Docker, Podman
 * 🧠 Internet of Things Embedded System - ESP32, ESP8266, MQTT Protocol
 * 🔐 Cyber Security - Penetration Testing, Network Security, Web Security, Linux Harderning
-* 🤖 I'm Enthusiast AI Engineering - Python, Machine Learning, Deep Learning, Workflow
+* 🤖 I'm Enthusiast AI Engineering - Python, Machine Learning, Deep Learning, AI Workflow
 
