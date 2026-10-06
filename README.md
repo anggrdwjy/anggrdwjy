@@ -1,9 +1,9 @@
 
-<h3 align="center">Hey there, I'm Anggarda
+<h3 align="center">Hey there, I'm Anggarda 👨🏻‍🚀
 
 ## 📖 About me
 
-* 👨🏻‍💻 I'm a Network Engineer from 
+* 👨🏻‍💻 I'm a Network Engineer
 * 🛜 Work with Cisco, Huawei, Juniper, Mikrotik - Loving IP and OSPF Routing
-* 💻 I'm Enthusiast Cyber Security (Penetration Testing, Linux Harderning, Network Security, Web Application Security)
 * 🤖 I'm Enthusiast AI Engineering
+* 🔐 I talk about Cloud Engineering, Internet Of Things and Cyber Security
