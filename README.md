@@ -1,5 +1,5 @@
-<p align="left"><img src="asset/githubme.gif" width="300"></p>
-<h3 align="left"> Hola, I'm Anggarda 👨🏻‍🚀
+<p align="center"><img src="asset/githubme.gif" width="300"></p>
+<h3 align="center"> Hola There, I'm Anggarda 👨🏻‍🚀
 
 ## 🤙🏻 About me
 
