@@ -9,7 +9,7 @@
 
 ## 📖 I'm currently learning
 
-* 📡 Network Engineering - TCP/IP, VLAN, Spanning-Tree, DHCP, DNS, Quality of Service, RIP, OSPF, IS-IS, BGP, Firewall
+* 📡 Network Engineering - TCP/IP, VLAN, Spanning-Tree, DHCP, DNS, QOS, OSPF, IS-IS, BGP, Firewall
 * 💻 Cloud Engineering - Proxmox, Linux Container, KVM, Docker, Podman
 * 🧠 Internet of Things Embedded System - ESP32, ESP8266
 * 🔐 Cyber Security - Penetration Testing, Network Security, Linux Harderning
