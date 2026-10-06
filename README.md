@@ -1,5 +1,5 @@
 
-<h3 align="left">Hola, I'm Anggarda 👨🏻‍🚀
+<h2 align="left">Hola, I'm Anggarda 👨🏻‍🚀
 
 ## 🤙🏻 About me
 
@@ -9,7 +9,7 @@
 
 ## 📖 I'm currently learning
 
-* 📡 Network Engineering - TCP/IP, VLAN, Spanning-Tree, DHCP, DNS, QOS, OSPF, IS-IS, BGP, Firewall
+* 📡 Network Engineering - TCP/IP, VLAN, STP, DHCP, DNS, QOS, OSPF, IS-IS, BGP, Firewall
 * 💻 Cloud Engineering - AWS, Proxmox, Linux Container, KVM, Docker, Podman
 * 🧠 Internet of Things Embedded System - ESP32, ESP8266, MQTT Protocol
 * 🔐 Cyber Security - Penetration Testing, Network Security, Web Security, Linux Harderning
