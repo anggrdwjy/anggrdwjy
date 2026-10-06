@@ -13,4 +13,4 @@
 * 💻 Cloud Engineering - Proxmox, Linux Container, KVM, Docker, Podman
 * 🧠 Internet of Things Embedded System - ESP32, ESP8266
 * 🔐 Cyber Security - Penetration Testing, Network Security, Linux Harderning
-* 🤖 I'm Enthusiastic AI Engineering
+* 🤖 I'm Enthusiast AI Engineering
