@@ -1,4 +1,4 @@
-
+<p align="left"><img src="assets/githubme.gif" width="600"></p>
 <h3 align="left"> Hola, I'm Anggarda 👨🏻‍🚀
 
 ## 🤙🏻 About me
