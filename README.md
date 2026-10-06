@@ -4,7 +4,7 @@
 ## 🤙🏻 About me
 
 * 👨🏻‍💻 I'm a Network Engineer - Focuse MPLS Domain
-* 🛜 Work with Cisco, Huawei, Juniper, Mikrotik
+* 🛜 Work with Cisco, Huawei, Juniper, Mikrotik - 🥇 MTCNA & MTCRE 
 * 🩶 Loving IP Address and OSPF Routing
 
 ## 📖 I'm currently learning
