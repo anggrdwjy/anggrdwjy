@@ -1,14 +1,14 @@
 
-<h2 align="left"> Hola, I'm Anggarda 👨🏻‍🚀
+<h1 align="left"> Hola, I'm Anggarda 👨🏻‍🚀
 
-### 🤙🏻 About me
+## 🤙🏻 About me
 
 * 👨🏻‍💻 I'm a Network Engineer Since 2014 - Now Focused MPLS Domain
 * 💼 Work with Cacti Weathermap, Cisco, Huawei, Juniper, Mikrotik
 * 🥇 MTCNA and MTCRE Certified
 * 💙 Loving Linux, Bash, Python, IP and OSPF Routing
 
-### 📖 I'm currently learning
+## 📖 I'm currently learning
 
 * 📡 Network Engineering - TCP/IP, VLAN, STP, DHCP, DNS, QOS, OSPF, IS-IS, BGP, Firewall
 * 💻 Cloud Engineering - AWS, Proxmox, Linux Container, KVM, Docker, Podman
