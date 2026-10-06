@@ -11,6 +11,6 @@
 
 * 📡 Network Engineering - TCP/IP, VLAN, Spanning-Tree, DHCP, DNS, QOS, OSPF, IS-IS, BGP, Firewall
 * 💻 Cloud Engineering - AWS, Proxmox, Linux Container, KVM, Docker, Podman
-* 🧠 Internet of Things Embedded System - ESP32, ESP8266
+* 🧠 Internet of Things Embedded System - ESP32, ESP8266, MQTT Protocol
 * 🔐 Cyber Security - Penetration Testing, Network Security, Web Security, Linux Harderning
-* 🤖 I'm Enthusiast AI Engineering 
+* 🤖 I'm Enthusiast AI Engineering
