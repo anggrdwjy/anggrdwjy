@@ -4,13 +4,13 @@
 ## 🤙🏻 About me
 
 * 👨🏻‍💻 I'm a Network Engineer Since 2017 - Focused MPLS Domain
-* 🛜 Work with Cisco, Huawei, Juniper, Mikrotik - 🥇 MTCNA & MTCRE 
-* 🩶 Loving IP and OSPF Routing
+* 💼 Work with Cisco, Huawei, Juniper, Mikrotik - 🥇 MTCNA and MTCRE 
+* 💙 Loving IP and OSPF Routing
 
 ## 📖 I'm currently learning
 
 * 📡 Network Engineering - TCP/IP, VLAN, Spanning-Tree, DHCP, DNS, QOS, OSPF, IS-IS, BGP, Firewall
-* 💻 Cloud Engineering - Proxmox, Linux Container, KVM, Docker, Podman
+* 💻 Cloud Engineering - AWS, Proxmox, Linux Container, KVM, Docker, Podman
 * 🧠 Internet of Things Embedded System - ESP32, ESP8266
-* 🔐 Cyber Security - Penetration Testing, Network Security, Linux Harderning
-* 🤖 I'm Enthusiast AI Engineering
+* 🔐 Cyber Security - Penetration Testing, Network Security, Web Security, Linux Harderning
+* 🤖 I'm Enthusiast AI Engineering 
