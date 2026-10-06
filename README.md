@@ -3,7 +3,7 @@
 
 ## 🤙🏻 About me
 
-* 👨🏻‍💻 I'm a Network Engineer Since 2017 - Focused MPLS Domain
+* 👨🏻‍💻 I'm a Network Engineer Since 2014 - Now Focused MPLS Domain
 * 💼 Work with Cacti Weathermap, Cisco, Huawei, Juniper, Mikrotik - 🥇 MTCNA and MTCRE 
 * 💙 Loving IP and OSPF Routing
 
