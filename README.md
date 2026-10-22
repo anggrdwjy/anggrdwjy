@@ -16,5 +16,5 @@
 * 💻 Cloud Engineering - AWS, Proxmox, LXC, KVM, Docker, Podman, Cloudflare, Tailscale
 * 🧠 Internet of Things Embedded System - ESP32, ESP8266, MQTT Protocol
 * 🔐 Cyber Security - Penetration Testing, Network Security, Web Security, Linux Harderning, Bug Bounty
-* 🤖 I'm Enthusiast AI Engineering - Python, Machine Learning Ops, Deep Learning, AI Workflow, AI Model
+* 🤖 I'm Enthusiast AI Engineering - Python, Machine Learning Ops, Deep Learning, AI Workflow, Train AI Model
 
