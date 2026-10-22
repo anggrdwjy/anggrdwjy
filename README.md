@@ -10,9 +10,10 @@
 
 ## 📖 I'm currently learning
 
+* ⛳ Open Discuss for Multi-Vendor LAB Network - iShare2, PNETLAB, EVE-NG Community
 * 📡 Network Engineering - TCP/IP, VLAN, STP, DHCP, DNS, QoS, OSPF, IS-IS, BGP, Firewall
 * 💻 Cloud Engineering - AWS, Proxmox, Linux Container, KVM, Docker, Podman
 * 🧠 Internet of Things Embedded System - ESP32, ESP8266, MQTT Protocol
 * 🔐 Cyber Security - Penetration Testing, Network Security, Web Security, Linux Harderning
-* 🤖 I'm Enthusiast AI Engineering - Python, Machine Learning, Deep Learning, AI Workflow
+* 🤖 I'm Enthusiast AI Engineering - Python, Machine Learning Ops, Deep Learning, AI Workflow, Train Model
 
