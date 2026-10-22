@@ -3,10 +3,11 @@
 
 ## 🤙🏻 About me
 
-* 👨🏻‍💻 I'm a Network Engineer since 2014 - Now focused MPLS Domain
+* 👨🏻‍💻 I'm Network Engineer since 2014 - Now focused MPLS Domain
 * 💼 Work with MRTG, Cacti Weathermap, Cisco, Huawei, Juniper, Mikrotik
 * 🥇 MTCNA and MTCRE Certified
 * 💙 Loving Linux, Bash, Python, IP and OSPF Routing
+* 📧 How to reach me anggarda.wijaya@yahoo.com
 
 ## 📖 I'm currently learning and enthusiast
 
