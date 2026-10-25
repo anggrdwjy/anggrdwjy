@@ -10,11 +10,12 @@
 
 ## 📖 I'm currently learning and enthusiast
 
-* ⛳ Open Discuss for Multi-Vendor Integration on LAB Network - iShare2, PNETLAB, EVE-NG Community, ENSP Huawei
-* 📡 Network Engineering - TCP/IP, VLAN, STP, DHCP, DNS, QoS, OSPF, IS-IS, BGP, Firewall, Proxy Manager
-* 📚 Training of Path Certified - MTCNA, MTCRE, MTCINE, CCNA, CCNP, HCIA, JNCIA, Fortinet NSE, CEHv12, OSCP
-* 💻 Cloud Engineering - GCP, AWS, Proxmox, Linux Container (LXC/LXD), KVM, Docker, Podman, Cloudflare, Tailscale
+* ⛳ Open Discuss Multi-Vendor Lab - iShare2, PNETLAB, EVE-NG Community, ENSP Huawei
+* 📡 Network Engineering - TCP/IP, VLAN, STP, DHCP, DNS, QoS, OSPF, IS-IS, BGP, Firewall, Proxy Manager, Cloudflare, Tailscale
+* 📚 Training of path Certified - MTCNA, MTCRE, MTCINE, CCNA, CCNP, HCIA, JNCIA, Fortinet NSE, CEHv12, OSCP
+* 💻 Cloud Engineering - AWS, Proxmox, Linux Container (LXC/LXD), KVM, Docker, Podman
+* 🖥️ Operating System - Linux (Ubuntu, Debian, Centos), Unix (FreeBSD, Darwin/MacOS), Windows (Server 2012, 2016, 2019)
 * 🧠 Internet of Things Embedded System - ESP32, ESP8266, MQTT Protocol
 * 🔐 Cyber Security - Penetration Testing, Network Security, Web Security, Linux Harderning
-* 🤖 I'm Enthusiast AI Engineering - Python, ML Ops, Deep Learning, AI Workflow, Train AI Model
+* 🤖 AI Engineering - Python, ML Ops, Deep Learning, AI Workflow, Train AI Model
 
