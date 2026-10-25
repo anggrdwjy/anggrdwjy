@@ -12,6 +12,7 @@
 
 * ⛳ Open Discuss for Multi-Vendor Integration on LAB Network - iShare2, PNETLAB, EVE-NG Community, ENSP Huawei
 * 📡 Network Engineering - TCP/IP, VLAN, STP, DHCP, DNS, QoS, OSPF, IS-IS, BGP, Firewall, Proxy Manager
+* 📚 Certified of Training - MTCNA, MTCRE, MTCINE, CCNA, CCNP, HCIA, JNCIA, Fortinet NSE, CEH, OSCP
 * 💻 Cloud Engineering - GCP, AWS, Proxmox, Linux Container (LXC/LXD), KVM, Docker, Podman, Cloudflare, Tailscale
 * 🧠 Internet of Things Embedded System - ESP32, ESP8266, MQTT Protocol
 * 🔐 Cyber Security - Penetration Testing, Network Security, Web Security, Linux Harderning
