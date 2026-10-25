@@ -4,7 +4,7 @@
 ## 🤙🏻 About me
 
 * 👨🏻‍💻 Network Engineer since 2014 - Now focused MPLS Domain Infrastructure
-* 💼 Work with MRTG, Cacti Weathermap, Cisco, Huawei, Juniper, Mikrotik, and Other
+* 💼 Work with MRTG, Cacti Weathermap, Cisco, Huawei, Juniper, Mikrotik, Fortinet, and Others
 * 🏅 MTCNA and MTCRE Certified
 * 💙 Loving Linux, Bash, Python, IP and OSPF Routing
 
