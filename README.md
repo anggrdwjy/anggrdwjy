@@ -11,11 +11,11 @@
 ## 📖 I'm currently learning and enthusiast
 
 * 📡 Network Engineering - TCP/IP, VLAN, STP, DHCP, DNS, QoS, OSPF, IS-IS, BGP, Firewall, Proxy Manager, Cloudflare, Tailscale
-* 🛜 Network Technology - Internet Gateway, CDN, CG-NAT, BNG, MPLS, Route Reflector, VPN, Multiplexing, GPON/XPON
-* 📝 Learn of Path Certified - MTCNA, MTCRE, MTCINE, CCNA, CCNP, HCIA, JNCIA, Fortinet NSE, CEHv12, OSCP, Redhat, AWS
+* 🛜 Network Technology - Internet Gateway, CDN, CG-NAT, BNG, MPLS, Route-Reflector, VPN, Multiplexing, GPON/XPON
+* 📝 Learn path Certified - MTCNA, MTCRE, MTCINE, CCNA, CCNP, HCIA, JNCIA, Fortinet NSE, CEHv12, OSCP, Redhat, AWS
 * ☁️ Cloud Engineering - AWS, Proxmox, Linux Container (LXC/LXD), KVM, Docker, Podman
 * 💿 Operating System - Linux (Ubuntu, Debian, Centos), Unix (FreeBSD, Darwin/MacOS), Windows (Server 2012, 2016, 2019)
-* 🤖 IoT Embedded System - ESP32, ESP8266, MQTT Protocol
+* 🤖 IoT Embedded System - ESP32, ESP8266, Sensor, Actuator, RS-232, RS-485, MQTT Protocol
 * 🔐 Cyber Security - Penetration Testing, Network Security, Web Security, System Harderning
 * 🧠 AI Engineering - Python, ML Ops, Deep Learning, AI Workflow, Train AI Model
 
