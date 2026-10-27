@@ -12,7 +12,7 @@
 
 * 📡 Network Engineering - TCP/IP, VLAN, STP, DHCP, DNS, QoS, OSPF, IS-IS, BGP, Firewall, Proxy Manager, Cloudflare, Tailscale
 * 🛜 Network Technology - Internet Gateway, CDN, CG-NAT, BNG, MPLS, Route-Reflector, VPN, Multiplexing, GPON/XPON
-* 📝 Learn path Certified - MTCNA, MTCRE, MTCINE, CCNA, CCNP, HCIA, HCIP, JNCIA, Fortinet NSE, CEHv12, OSCP, Redhat, AWS
+* 📝 Learn path Certified - MTCNA, MTCRE, MTCINE, MTCIPV6E, CCNA, CCNP, HCIA, JNCIA, NSE, CEH, OSCP, RedHat, AWS
 * ☁️ Cloud Engineering - AWS, Proxmox, Linux Container (LXC/LXD), KVM, Docker, Podman
 * 💿 Operating System - Linux (Ubuntu, Debian, Centos), Unix (FreeBSD, Darwin/MacOS), Windows (Server 2012, 2016, 2019)
 * 🤖 IoT Embedded System - ESP32, ESP8266, Sensor, Actuator, RS-232, RS-485, MQTT Protocol
