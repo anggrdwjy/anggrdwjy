@@ -19,9 +19,9 @@
 
 ## 🚀 Mini Project
 
-| Project | Description | Tech Stack | Repository |
-| :--- | :--- | :--- | :--- |
-| Mini OCR Finance | Scanning PDF, PNG, JPEG to result Dashboard Montly, CSV | Streamlit, FastAPI, JWT, Docker | [Code](https://github.com/anggrdwjy/mini-OCR-finance) |
+| Project | Description | Category | Tech Stack | Repository |
+| :--- | :--- | :--- | :--- | :--- |
+| Mini OCR Finance | Scanning PDF, PNG, JPEG to result Dashboard Montly, CSV | Python, Tesseract, Streamlit, FastAPI, JWT, Postgresql, Docker | [Code](https://github.com/anggrdwjy/mini-OCR-finance) |
 | Mikrotik on VPS Ubuntu | Build MikroTik CHR x86 on Ubuntu KVM Based Proxmox | Bash, Mikrotik, Ubuntu | [Code](https://github.com/anggrdwjy/mikrotik-ubuntukvm) |
 | Hybrid Cloud on Premise | Build Hybrid Cloud on premise with MikroTik Router and Proxmox | Mikrotik, Proxmox, VPS | [Code](https://github.com/anggrdwjy/cloud-onpremise) |
 | Advanced Multiple IPv6 + IPv6 Scanning | Multiple Scanning IP | Python, Socket, CSV, JSON | [Code](https://github.com/anggrdwjy/multiple-ipscan) |
