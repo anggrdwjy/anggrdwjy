@@ -21,9 +21,9 @@
 
 ## 🚀 Mini Project
 
-| Project | Tech | Repository |
-| :--- | :--- | :--- |
-| Mini OCR Finance | Python, Streamlit, FastAPI, JWT, Docker | [Code](https://github.com/anggrdwjy/mini-OCR-finance) |
-| Advanced Multiple IPv6 + IPv6 Scanning | Python, Socket, CSV, JSON | [Code](https://github.com/anggrdwjy/multiple-ipscan) |
-| Integration Fail2ban Proxmox | Bash, Fail2ban | [Code](https://github.com/anggrdwjy/proxmox-fail2ban) |
+| Project | Description | Tech | Repository |
+| :--- | :--- | :--- | :--- |
+| 🧠 Mini OCR Finance | Scanning PDF, PNG, JPEG to result CSV | Streamlit, FastAPI, JWT, Docker | [Code](https://github.com/anggrdwjy/mini-OCR-finance) |
+| 📡Advanced Multiple IPv6 + IPv6 Scanning | Multiple Scanning IP | Python, Socket, CSV, JSON | [Code](https://github.com/anggrdwjy/multiple-ipscan) |
+| 🔐Integration Fail2ban Proxmox | Security Access for Proxmox | Bash, Fail2ban | [Code](https://github.com/anggrdwjy/proxmox-fail2ban) |
 
