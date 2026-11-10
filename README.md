@@ -19,3 +19,9 @@
 * 🔐 Cyber Security - Penetration Testing, Network Security, Web Security, System Harderning
 * 🧠 AI Engineering - Python, ML Ops, Deep Learning, AI Workflow, Train AI Model
 
+## 🚀 Mini Project
+
+| Project | Deskripsi | Tech | Link |
+| :--- | :--- | :--- | :--- |
+| Mini OCR Finance | Python, Streamlit, OCR | [Code](https://github.com/anggrdwjy/mini-OCR-finance) |
+
