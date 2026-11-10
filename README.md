@@ -23,7 +23,8 @@
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| Mini OCR Finance | Scanning PDF, PNG, JPEG to result CSV | Streamlit, FastAPI, JWT, Docker | [Code](https://github.com/anggrdwjy/mini-OCR-finance) |
+| Mini OCR Finance | Scanning PDF, PNG, JPEG to result Dashboard Montly, CSV | Streamlit, FastAPI, JWT, Docker | [Code](https://github.com/anggrdwjy/mini-OCR-finance) |
+| Mikrotik on VPS Ubuntu | Build MikroTik CHR x86 on Ubuntu KVM Based Proxmox | Bash, Mikrotik, Ubuntu | [Code](https://github.com/anggrdwjy/mikrotik-ubuntukvm) |
 | Advanced Multiple IPv6 + IPv6 Scanning | Multiple Scanning IP | Python, Socket, CSV, JSON | [Code](https://github.com/anggrdwjy/multiple-ipscan) |
-| Fail2ban for Proxmox | Security Access for Proxmox | Bash, Fail2ban | [Code](https://github.com/anggrdwjy/proxmox-fail2ban) |
-| Solution Failed Update Repository for Proxmox | Bypass Proxmox Non-subscription Enterprise for Update Repository | Bash | [Code](https://github.com/anggrdwjy/proxmox-non-subscription) |
+| Security Proxmox with Fail2ban | Security Access for Proxmox | Bash, Proxmox, Fail2ban | [Code](https://github.com/anggrdwjy/proxmox-fail2ban) |
+| Bypass Proxmox Non-subscription | Solution Proxmox Non-subscription Enterprise for Update Repository | Bash, Proxmox | [Code](https://github.com/anggrdwjy/proxmox-non-subscription) |
