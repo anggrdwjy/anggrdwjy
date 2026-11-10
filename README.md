@@ -21,9 +21,9 @@
 
 ## 🚀 Mini Project
 
-| Project | Description | Tech | Repository |
+| Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| 🧠 Mini OCR Finance | Scanning PDF, PNG, JPEG to result CSV | Streamlit, FastAPI, JWT, Docker | [Code](https://github.com/anggrdwjy/mini-OCR-finance) |
-| 📡Advanced Multiple IPv6 + IPv6 Scanning | Multiple Scanning IP | Python, Socket, CSV, JSON | [Code](https://github.com/anggrdwjy/multiple-ipscan) |
-| 🔐Integration Fail2ban Proxmox | Security Access for Proxmox | Bash, Fail2ban | [Code](https://github.com/anggrdwjy/proxmox-fail2ban) |
-
+| Mini OCR Finance | Scanning PDF, PNG, JPEG to result CSV | Streamlit, FastAPI, JWT, Docker | [Code](https://github.com/anggrdwjy/mini-OCR-finance) |
+| Advanced Multiple IPv6 + IPv6 Scanning | Multiple Scanning IP | Python, Socket, CSV, JSON | [Code](https://github.com/anggrdwjy/multiple-ipscan) |
+| Fail2ban for Proxmox | Security Access for Proxmox | Bash, Fail2ban | [Code](https://github.com/anggrdwjy/proxmox-fail2ban) |
+| Solution Failed Update Repository for Proxmox | Bypass Proxmox Non-subscription Enterprise for Update Repository | Bash | [Code](https://github.com/anggrdwjy/proxmox-non-subscription) |
