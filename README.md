@@ -21,7 +21,9 @@
 
 ## 🚀 Mini Project
 
-| Project | Deskripsi | Tech | Link |
-| :--- | :--- | :--- | :--- |
-| Mini OCR Finance | Python, Streamlit, OCR | [Code](https://github.com/anggrdwjy/mini-OCR-finance) |
+| Project | Tech | Repository |
+| :--- | :--- | :--- |
+| Mini OCR Finance | Python, Streamlit, FastAPI, JWT, Docker | [Code](https://github.com/anggrdwjy/mini-OCR-finance) |
+| Advanced Multiple IPv6 + IPv6 Scanning | Python, Socket, CSV, JSON | [Code](https://github.com/anggrdwjy/multiple-ipscan) |
+| Integration Fail2ban Proxmox | Bash, Fail2ban | [Code](https://github.com/anggrdwjy/proxmox-fail2ban) |
 
