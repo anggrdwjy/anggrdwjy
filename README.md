@@ -22,9 +22,5 @@
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
 | Mini OCR Finance | Scanning PDF, PNG, JPEG to result Dashboard Montly, CSV | Python, Tesseract, Streamlit, FastAPI, JWT, Postgresql, Docker | [Code](https://github.com/anggrdwjy/mini-OCR-finance) |
-| Mikrotik on VPS Ubuntu | Build MikroTik CHR x86 on Ubuntu KVM Based Proxmox | Bash, Mikrotik, Ubuntu | [Code](https://github.com/anggrdwjy/mikrotik-ubuntukvm) |
-| Hybrid Cloud on Premise | Build Hybrid Cloud on premise with MikroTik Router and Proxmox | Mikrotik, Proxmox, VPS | [Code](https://github.com/anggrdwjy/cloud-onpremise) |
 | Advanced Multiple IPv6 + IPv6 Scanning | Multiple Scanning IP | Python, Socket, CSV, JSON | [Code](https://github.com/anggrdwjy/multiple-ipscan) |
-| Security Proxmox with Fail2ban | Security Access for Proxmox | Bash, Proxmox, Fail2ban | [Code](https://github.com/anggrdwjy/proxmox-fail2ban) |
-| Bypass Proxmox Non-subscription | Solution Proxmox Non-subscription Enterprise for Update Repository | Bash, Proxmox | [Code](https://github.com/anggrdwjy/proxmox-non-subscription) |
 
