@@ -22,5 +22,6 @@
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
 | Mini OCR Finance | Scanning PDF, PNG, JPEG to result Dashboard Montly, CSV | Python, Tesseract, Streamlit, FastAPI, JWT, Postgresql, Docker | [Code](https://github.com/anggrdwjy/mini-OCR-finance) |
-| Advanced Multiple IPv6 + IPv6 Scanning | Multiple Scanning IP | Python, Socket, CSV, JSON | [Code](https://github.com/anggrdwjy/multiple-ipscan) |
+| Multiple IP Scanning | Advance IP Scanning for IPv4 + IPv6 in Lab or Local Network Only | Python | [Code](https://github.com/anggrdwjy/multiple-ipscan) |
+| UDP Traffic Generator | One-way UDP Traffic Generator for IPv4 only | Python | [Code](https://github.com/anggrdwjy/udp-traffic-generator) |
 
