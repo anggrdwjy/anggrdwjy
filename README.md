@@ -21,8 +21,8 @@
 
 | Project | Description | Category | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- | :--- |
-| Mini OCR Finance | Scanning PDF, PNG, JPEG to result Dashboard Montly, CSV | AI Engineering | Python, Tesseract, Streamlit, FastAPI, JWT, Postgresql, Docker | [Code](https://github.com/anggrdwjy/mini-OCR-finance) |
-| Multiple IP Scanning | Advance IP Scanning for IPv4 + IPv6 in Lab or Local Network Only | Network Engineering | Python | [Code](https://github.com/anggrdwjy/multiple-ipscan) |
-| UDP Traffic Generator | One-way UDP Traffic Generator for IPv4 only | Network Engineering | Python | [Code](https://github.com/anggrdwjy/udp-traffic-generator) |
-| hostmand | Hostname Manager for JumpServer or Bash Terminal Server | Cloud Engineering | Bash | [Code](https://github.com/anggrdwjy/hostmand) |
+| Prototype OCR Finance | Invoice and expense receipt tracking system | AI Engineering | Python, FastAPI, PostgreSQL, React, OCR Tesseract, Docker | [Code](https://github.com/anggrdwjy/prototype-ocr-finance) |
+| Multiple IP Scanning | Advance IP scanning for IPv4 + IPv6 in lab or local network only | Network Engineering | Python | [Code](https://github.com/anggrdwjy/multiple-ipscan) |
+| UDP Traffic Generator | One-way UDP traffic generator for IPv4 only | Network Engineering | Python | [Code](https://github.com/anggrdwjy/udp-traffic-generator) |
+| hostmand | Hostname Manager for jumpServer or bash terminal server | Cloud Engineering | Bash | [Code](https://github.com/anggrdwjy/hostmand) |
 
