@@ -29,7 +29,7 @@
 ## 📚 Nice to Learn
 
 | Library | Description | Category | Language | Repository |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- |
 | Fortinet NSE | Guide Lab Fortinet NSE 1-8 Include Study Case | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Fortinet-NSE) |
 | MTCINE | Guide Lab BGP, MPLS, Traffic-Engineerqing | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCINE) |
 | MTCRE | Guide Lab Static Route, OSPF, VLAN, Qinq, VPN | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCRE) |
