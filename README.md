@@ -30,6 +30,7 @@
 
 | Library | Description | Category | Repository |
 | :--- | :--- | :--- | :--- |
+| Fortinet NSE | Guide Lab Fortinet NSE 1-8 Include Study Case | Expert | [Learn](https://github.com/anggrdwjy/Library-Fortinet-NSE) |
 | MTCINE | Guide Lab BGP, MPLS, Traffic-Engineerqing | Expert | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCINE) |
 | MTCRE | Guide Lab Static Route, OSPF, VLAN, Qinq, VPN | Professional | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCRE) |
 | MTCIPV6E | Guide Lab IPV6 Protocol, Packet, Security | Professional | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCIPV6E) |
