@@ -26,14 +26,14 @@
 | UDP Traffic Generator | One-way UDP traffic generator for IPv4 only | Network Engineering | Python | [Code](https://github.com/anggrdwjy/udp-traffic-generator) |
 | hostmand | Hostname Manager for jumpServer or bash terminal server | Cloud Engineering | Bash | [Code](https://github.com/anggrdwjy/hostmand) |
 
-## Nice to Learn
+## 📚 Nice to Learn
 
 | Library | Description | Category | Repository |
 | :--- | :--- | :--- | :--- |
-| MTCINE | | Expert | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCINE]
-| MTCRE | | Professional | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCRE]
-| MTCIPV6E | | Professional | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCIPV6E]
-| MTCSE | | Professional | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCSE]
-| MTCTCE | | Professional | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCTCE]
-| MTCSWE | | Professional | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCSWE]
-| MTCNA | | Begineer | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCNA]
+| MTCINE | | Expert | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCINE] |
+| MTCRE | | Professional | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCRE] |
+| MTCIPV6E | | Professional | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCIPV6E] |
+| MTCSE | | Professional | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCSE] |
+| MTCTCE | | Professional | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCTCE] |
+| MTCSWE | | Professional | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCSWE] |
+| MTCNA | | Begineer | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCNA] |
