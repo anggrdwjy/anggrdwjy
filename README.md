@@ -28,14 +28,14 @@
 
 ## 📚 Nice to Learn
 
-| Library | Description | Category | Repository |
+| Library | Description | Category | Language | Repository |
 | :--- | :--- | :--- | :--- |
-| Fortinet NSE | Guide Lab Fortinet NSE 1-8 Include Study Case | Expert | [Learn](https://github.com/anggrdwjy/Library-Fortinet-NSE) |
-| MTCINE | Guide Lab BGP, MPLS, Traffic-Engineerqing | Expert | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCINE) |
-| MTCRE | Guide Lab Static Route, OSPF, VLAN, Qinq, VPN | Professional | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCRE) |
-| MTCIPV6E | Guide Lab IPV6 Protocol, Packet, Security | Professional | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCIPV6E) |
-| MTCSE | Guide Lab Security Firewall, Attack, Cryptography, Tunneling | Professional | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCSE) |
-| MTCTCE | Guide Lab Packet Flow, Firewal NAT, Mangle, QoS, DNS, DHCP, Web Proxy | Professional | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCTCE) |
-| MTCSWE | Guide Lab MTU, VLAN, Spanning-Tree, Link Aggregation, Port Isolation, QoS, Layer 2 Security, PoE | Professional | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCSWE) |
-| MTCUME | Guide Lab PPP, PPTP, PPPoE, Bridging, IPSec, Hotspot, Radius | Professional | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCUME) |
-| MTCNA | Guide Lab DHCP, Briding, Routing, Wireless, Firewall, QoS, Tunnels, Misc | Begineer | [learn](https://github.com/anggrdwjy/Library-MikroTik-MTCNA) |
+| Fortinet NSE | Guide Lab Fortinet NSE 1-8 Include Study Case | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Fortinet-NSE) |
+| MTCINE | Guide Lab BGP, MPLS, Traffic-Engineerqing | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCINE) |
+| MTCRE | Guide Lab Static Route, OSPF, VLAN, Qinq, VPN | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCRE) |
+| MTCIPV6E | Guide Lab IPV6 Protocol, Packet, Security | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCIPV6E) |
+| MTCSE | Guide Lab Security Firewall, Attack, Cryptography, Tunneling | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCSE) |
+| MTCTCE | Guide Lab Packet Flow, Firewal NAT, Mangle, QoS, DNS, DHCP, Web Proxy | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCTCE) |
+| MTCSWE | Guide Lab MTU, VLAN, Spanning-Tree, Link Aggregation, Port Isolation, QoS, Layer 2 Security, PoE | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCSWE) |
+| MTCUME | Guide Lab PPP, PPTP, PPPoE, Bridging, IPSec, Hotspot, Radius | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCUME) |
+| MTCNA | Guide Lab DHCP, Briding, Routing, Wireless, Firewall, QoS, Tunnels, Misc | Begineer | ID | [learn](https://github.com/anggrdwjy/Library-MikroTik-MTCNA) |
