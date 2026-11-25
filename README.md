@@ -30,12 +30,11 @@
 
 | Library | Description | Category | Language | Repository |
 | :--- | :--- | :--- | :--- | :--- |
+| Juniper Junos | Study Case OSPF, IS-IS, MPLS, BGP, EVPN, QoS in Service Provider | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Junos-ServiceProvider) |
 | Cisco IOS-XR | Study Case OSPF, MPLS, BGP, Dual-Stack, Segment-Routing, EVPN in Service Provider | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Cisco-IOSXR-ServiceProvider) |
 | Cisco IOS-XE | Study Case OSPF, MPLS, BGP, L2VPN, L3VPN, VPLS, QoS in Service Provider | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Cisco-IOSXE-ServiceProvider) |
-| Cisco IOS | Study Case OSPF, MPLS, BGP, L3VPN, VRF, QoS, STP in Enterprise Network | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Cisco-IOS-Enterprise) |
 | Fortinet NSE | Study Case Firewall, SDWAN, VPN, DMZ in Enterprise Network | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Fortinet-NSE) |
 | MTCINE | Study Case BGP, MPLS, Traffic-Engineering in Exam Lab Network | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCINE) |
 | MTCRE | Study Case Static Route, OSPF, VLAN, Qinq, VPN in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCRE) |
 | MTCIPV6E | Study Case IPV6 Protocol, Packet, Security in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCIPV6E) |
 | MTCSE | Study Case Security Firewall, Attack, Cryptography, Tunneling in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCSE) |
-| MTCNA | Study Case DHCP, Briding, Routing, Wireless, Firewall, QoS, Tunnels, Misc in Exam Lab Network | Begineer | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCNA) |
