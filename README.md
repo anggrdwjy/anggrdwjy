@@ -30,10 +30,10 @@
 
 | Library | Description | Category | Repository |
 | :--- | :--- | :--- | :--- |
-| MTCINE | | Expert | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCINE] |
-| MTCRE | | Professional | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCRE] |
-| MTCIPV6E | | Professional | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCIPV6E] |
-| MTCSE | | Professional | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCSE] |
-| MTCTCE | | Professional | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCTCE] |
-| MTCSWE | | Professional | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCSWE] |
-| MTCNA | | Begineer | (Repo)[https://github.com/anggrdwjy/Library-MikroTik-MTCNA] |
+| MTCINE | | Expert | [Repo](https://github.com/anggrdwjy/Library-MikroTik-MTCINE) |
+| MTCRE | | Professional | [Repo](https://github.com/anggrdwjy/Library-MikroTik-MTCRE) |
+| MTCIPV6E | | Professional | [Repo](https://github.com/anggrdwjy/Library-MikroTik-MTCIPV6E) |
+| MTCSE | | Professional | [Repo](https://github.com/anggrdwjy/Library-MikroTik-MTCSE) |
+| MTCTCE | | Professional | [Repo](https://github.com/anggrdwjy/Library-MikroTik-MTCTCE) |
+| MTCSWE | | Professional | [Repo](https://github.com/anggrdwjy/Library-MikroTik-MTCSWE) |
+| MTCNA | | Begineer | [Repo](https://github.com/anggrdwjy/Library-MikroTik-MTCNA) |
