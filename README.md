@@ -36,7 +36,7 @@
 | MTCRE | Study Case Static Route, OSPF, VLAN, Qinq, VPN in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCRE) |
 | MTCIPV6E | Study Case IPV6 Protocol, Packet, Security in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCIPV6E) |
 | MTCSE | Study Case Security Firewall, Attack, Cryptography, Tunneling in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCSE) |
-| MTCTCE | Guide Lab Packet Flow, Firewal NAT, Mangle, QoS, DNS, DHCP, Web Proxy | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCTCE) |
-| MTCSWE | Guide Lab MTU, VLAN, Spanning-Tree, Link Aggregation, Port Isolation, QoS, Layer 2 Security, PoE | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCSWE) |
-| MTCUME | Guide Lab PPP, PPTP, PPPoE, Bridging, IPSec, Hotspot, Radius | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCUME) |
-| MTCNA | Guide Lab DHCP, Briding, Routing, Wireless, Firewall, QoS, Tunnels, Misc | Begineer | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCNA) |
+| MTCTCE | Study Case Packet Flow, Firewal NAT, Mangle, QoS, DNS, DHCP, Web Proxy in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCTCE) |
+| MTCSWE | Study Case MTU, VLAN, Spanning-Tree, Link Aggregation, Port Isolation, QoS, Layer 2 Security, PoE in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCSWE) |
+| MTCUME | Study Case PPP, PPTP, PPPoE, Bridging, IPSec, Hotspot, Radius in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCUME) |
+| MTCNA | Study Case DHCP, Briding, Routing, Wireless, Firewall, QoS, Tunnels, Misc in Exam Lab Network | Begineer | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCNA) |
