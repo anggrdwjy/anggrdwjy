@@ -30,12 +30,12 @@
 
 | Library | Description | Category | Language | Repository |
 | :--- | :--- | :--- | :--- | :--- |
-| Cisco IOS | Study Case Routing & Switching MPLS, L2VPN, L3VPN, BGP in Enterprise | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Cisco-IOS-Enterprise) |
-| Fortinet NSE | Guide Lab Fortinet NSE 1-8 Include Study Case Firewall, SDWAN, VPN, DMZ | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Fortinet-NSE) |
-| MTCINE | Guide Lab BGP, MPLS, Traffic-Engineerqing | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCINE) |
-| MTCRE | Guide Lab Static Route, OSPF, VLAN, Qinq, VPN | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCRE) |
-| MTCIPV6E | Guide Lab IPV6 Protocol, Packet, Security | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCIPV6E) |
-| MTCSE | Guide Lab Security Firewall, Attack, Cryptography, Tunneling | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCSE) |
+| Cisco IOS | Study Case Routing & Switching MPLS, L2VPN, L3VPN, BGP in Enterprise Network | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Cisco-IOS-Enterprise) |
+| Fortinet NSE | Study Case Firewall, SDWAN, VPN, DMZ in Enterprise Network | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Fortinet-NSE) |
+| MTCINE | Study Case BGP, MPLS, Traffic-Engineering in Exam Lab Network | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCINE) |
+| MTCRE | Study Case Static Route, OSPF, VLAN, Qinq, VPN in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCRE) |
+| MTCIPV6E | Study Case IPV6 Protocol, Packet, Security in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCIPV6E) |
+| MTCSE | Study Case Security Firewall, Attack, Cryptography, Tunneling in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCSE) |
 | MTCTCE | Guide Lab Packet Flow, Firewal NAT, Mangle, QoS, DNS, DHCP, Web Proxy | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCTCE) |
 | MTCSWE | Guide Lab MTU, VLAN, Spanning-Tree, Link Aggregation, Port Isolation, QoS, Layer 2 Security, PoE | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCSWE) |
 | MTCUME | Guide Lab PPP, PPTP, PPPoE, Bridging, IPSec, Hotspot, Radius | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCUME) |
