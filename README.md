@@ -30,7 +30,7 @@
 
 | Library | Description | Category | Language | Repository |
 | :--- | :--- | :--- | :--- | :--- |
-| Juniper Junos | Study Case OSPF, IS-IS, MPLS, BGP, EVPN, QoS in Service Provider | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Junos-ServiceProvider) |
+| Juniper Junos | Study Case OSPF, IS-IS, MPLS, BGP, EVPN, QoS, Firewall in Service Provider | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Junos-ServiceProvider) |
 | Cisco IOS-XR | Study Case OSPF, MPLS, BGP, Dual-Stack, Segment-Routing, EVPN in Service Provider | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Cisco-IOSXR-ServiceProvider) |
 | Cisco IOS-XE | Study Case OSPF, MPLS, BGP, L2VPN, L3VPN, VPLS, QoS in Service Provider | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Cisco-IOSXE-ServiceProvider) |
 | Fortinet NSE | Study Case Firewall, SDWAN, VPN, DMZ in Enterprise Network | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Fortinet-NSE) |
