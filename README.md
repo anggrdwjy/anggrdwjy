@@ -30,8 +30,8 @@
 
 | Library | Description | Category | Language | Repository |
 | :--- | :--- | :--- | :--- | :--- |
-| Cisco IOS-XE | Study Case Routing & Switching in Service Provider | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Cisco-IOSXE-ServiceProvider) |
-| Cisco IOS | Study Case Routing & Switching in Enterprise Network | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Cisco-IOS-Enterprise) |
+| Cisco IOS-XE | Study Case OSPF, MPLS, BGP, L2VPN, L3VPN, VPLS, QoS in Service Provider | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Cisco-IOSXE-ServiceProvider) |
+| Cisco IOS | Study Case OSPF, MPLS, BGP, L3VPN, VRF, QoS, STP in Enterprise Network | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Cisco-IOS-Enterprise) |
 | Fortinet NSE | Study Case Firewall, SDWAN, VPN, DMZ in Enterprise Network | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Fortinet-NSE) |
 | MTCINE | Study Case BGP, MPLS, Traffic-Engineering in Exam Lab Network | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCINE) |
 | MTCRE | Study Case Static Route, OSPF, VLAN, Qinq, VPN in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCRE) |
