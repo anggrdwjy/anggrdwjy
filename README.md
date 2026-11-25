@@ -30,13 +30,11 @@
 
 | Library | Description | Category | Language | Repository |
 | :--- | :--- | :--- | :--- | :--- |
-| Cisco IOS | Study Case Routing & Switching MPLS, L2VPN, L3VPN, BGP in Enterprise Network | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Cisco-IOS-Enterprise) |
+| Cisco IOS-XE | Study Case Routing & Switching in Service Provider | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Cisco-IOSXE-ServiceProvider) |
+| Cisco IOS | Study Case Routing & Switching in Enterprise Network | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Cisco-IOS-Enterprise) |
 | Fortinet NSE | Study Case Firewall, SDWAN, VPN, DMZ in Enterprise Network | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Fortinet-NSE) |
 | MTCINE | Study Case BGP, MPLS, Traffic-Engineering in Exam Lab Network | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCINE) |
 | MTCRE | Study Case Static Route, OSPF, VLAN, Qinq, VPN in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCRE) |
 | MTCIPV6E | Study Case IPV6 Protocol, Packet, Security in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCIPV6E) |
 | MTCSE | Study Case Security Firewall, Attack, Cryptography, Tunneling in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCSE) |
-| MTCTCE | Study Case Packet Flow, Firewal NAT, Mangle, QoS, DNS, DHCP, Web Proxy in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCTCE) |
-| MTCSWE | Study Case MTU, VLAN, Spanning-Tree, Link Aggregation, Port Isolation, QoS, Layer 2 Security, PoE in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCSWE) |
-| MTCUME | Study Case PPP, PPTP, PPPoE, Bridging, IPSec, Hotspot, Radius in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCUME) |
 | MTCNA | Study Case DHCP, Briding, Routing, Wireless, Firewall, QoS, Tunnels, Misc in Exam Lab Network | Begineer | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCNA) |
