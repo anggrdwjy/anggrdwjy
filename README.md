@@ -10,12 +10,12 @@
 
 ## 📖 I'm currently learning and enthusiast
 
-* 📡 Network Engineering - TCP/IP, VLAN, STP, DHCP, DNS, QoS, OSPF, IS-IS, BGP, Firewall, Proxy Manager, Cloudflare, Tailscale
-* 🛜 Network Technology - Internet Gateway, CDN, CG-NAT, BNG, MPLS, Route-Reflector, VPN, Multiplexing, GPON/XPON
+* 📡 Network Engineering - TCP/IP, VLAN, STP, DHCP, DNS, QoS, OSPF, IS-IS, BGP, Firewall, Proxy Manager, Tunneling
+* 🛜 Project Experience Network Technology - Internet Gateway, CDN, CG-NAT, BNG, MPLS, Route-Reflector, VPN, Multiplexing, GPON/XPON
 * ☁️ Cloud Engineering - AWS, Proxmox, Linux Container, KVM, Docker, Podman
 * 🤖 IoT Embedded System - ESP32, ESP8266, Sensor, Actuator, RS-232, RS-485, MQTT Protocol
 * 🔐 Cyber Security - Penetration Testing, Network Security, Web Security, System Harderning
-* 🧠 AI Engineering - Python, ML Ops, Deep Learning, AI Workflow, Train AI Model, Fine-tunning
+* 🧠 AI Engineering - Python, Jupyter Notebook, ML Ops, Deep Learning, AI Workflow, Train AI Model, Fine-tunning, 
 
 ## 🚀 Mini Project
 
