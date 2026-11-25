@@ -8,7 +8,7 @@
 * 🏅 MTCNA and MTCRE Certified
 * 💙 Loving Linux, Bash, Python, IP and OSPF Routing
 
-## 📖 I'm currently learning and enthusiast
+## 📖 I'm currently learn and enthusiast
 
 * 📡 Network Engineering - TCP/IP, VLAN, STP, DHCP, DNS, QoS, OSPF, IS-IS, BGP, Firewall, Proxy Manager, Tunneling
 * 🛜 Network Project - Internet Gateway, CDN Cache, CG-NAT, BNG, MPLS, Route-Reflector, VPN, DWDM Multiplexing
