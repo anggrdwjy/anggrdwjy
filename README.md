@@ -25,6 +25,7 @@
 | Multiple IP Scanning | Advance IP scanning for IPv4 + IPv6 in lab or local network only | Network Engineering | Python | [Code](https://github.com/anggrdwjy/Multiple-IPScanning) |
 | UDP Traffic Generator | One-way UDP Traffic Generator for IPv4 + IPv6 | Network Engineering | Python | [Code](https://github.com/anggrdwjy/UDP-Traffic-Generator) |
 | Automate Path Proxmox | Path Hypervisor Proxmox Non-Subscriotion for Update Repository | Cloud Engineering | Bash | [Code](https://github.com/anggrdwjy/AutomatePath-Proxmox-NonSubscription) |
+| MikroTik CHR on VPS | Solution MikroTik CHR x86 on Cloud VPS - Special Case Ubuntu KVM Based Proxmox | Network Engineering | Bash | [Code](https://github.com/anggrdwjy/MikrotikCHR-VPSUbuntuKVM) |
 | hostmand | Hostname Manager for terminal server | Network Engineering | Bash | [Code](https://github.com/anggrdwjy/Hostname-Manager) |
 
 ## 📚 Nice to Learn
