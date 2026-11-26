@@ -24,6 +24,7 @@
 | Prototype OCR in Finance | Invoice and expense receipt tracking system | AI Engineering | Python, FastAPI, PostgreSQL, React, OCR Tesseract, Docker | [Code](https://github.com/anggrdwjy/Prototype-AI-OCR-Finance) |
 | Multiple IP Scanning | Advance IP scanning for IPv4 + IPv6 in lab or local network only | Network Engineering | Python | [Code](https://github.com/anggrdwjy/Multiple-IPScanning) |
 | UDP Traffic Generator | One-way UDP traffic generator for IPv4 only | Network Engineering | Python | [Code](https://github.com/anggrdwjy/UDP-Traffic-Generator) |
+| Automate Path Proxmox | Path Hypervisor Proxmox Non-Subscriotion for Update Repository | Cloud Engineering | Bash | [Code](https://github.com/anggrdwjy/AutomatePath-Proxmox-NonSubscription) |
 | hostmand | Hostname Manager for terminal server | Network Engineering | Bash | [Code](https://github.com/anggrdwjy/Hostname-Manager) |
 
 ## 📚 Nice to Learn
