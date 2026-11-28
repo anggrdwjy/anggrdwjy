@@ -1,6 +1,14 @@
 <p align="center"><img src="githubme.gif" width="300"></p>
 <h3 align="center"> Hola there, I'm Anggarda 👨🏻‍🚀
 
+<p align="center">
+  <a href="https://github.com/anggrdwjy"><img src="https://img.shields.io/github/followers/anggrdwjy?style=social" alt="GitHub followers"></a>
+  <img src="https://img.shields.io/badge/Network_Engineer-Since_2014-blue?style=flat-square&logo=cisco&logoColor=white" alt="Network Engineer">
+  <img src="https://img.shields.io/badge/Focus-MPLS-7A3E9D?style=flat-square" alt="Focus MPLS">
+  <img src="https://img.shields.io/badge/MTCNA-Certified-FF6A00?style=flat-square&logo=mikrotik&logoColor=white" alt="MTCNA">
+  <img src="https://img.shields.io/badge/MTCRE-Certified-FF6A00?style=flat-square&logo=mikrotik&logoColor=white" alt="MTCRE">
+</p>
+
 ## 🤙🏻 About me
 
 * 👨🏻‍💻 Network Engineer since 2014 - Now focused MPLS domain
