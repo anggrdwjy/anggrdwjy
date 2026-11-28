@@ -24,20 +24,17 @@
 | Prototype OCR in Finance | Invoice and expense receipt tracking system | AI Engineering | Python, FastAPI, PostgreSQL, React, OCR Tesseract, Docker | [Code](https://github.com/anggrdwjy/Prototype-AI-OCR-Finance) |
 | Multiple IP Scanning | Advance IP scanning for IPv4 + IPv6 in lab or local network only | Network Engineering | Python | [Code](https://github.com/anggrdwjy/Multiple-IPScanning) |
 | UDP Traffic Generator | One-way UDP Traffic Generator for IPv4 + IPv6 | Network Engineering | Python | [Code](https://github.com/anggrdwjy/UDP-Traffic-Generator) |
-| Automate Path Proxmox | Path Hypervisor Proxmox Non-Subscriotion for Update Repository | Cloud Engineering | Bash | [Code](https://github.com/anggrdwjy/AutomatePath-Proxmox-NonSubscription) |
-| MikroTik CHR on VPS | Solution MikroTik CHR x86 on Cloud VPS - Special Case Ubuntu KVM Based Proxmox | Network Engineering | Bash | [Code](https://github.com/anggrdwjy/MikrotikCHR-VPSUbuntuKVM) |
 | hostmand | Hostname Manager for terminal server | Network Engineering | Bash | [Code](https://github.com/anggrdwjy/Hostname-Manager) |
 
 ## 📚 Nice to Learn
 
 | Library | Description | Category | Language | Repository |
 | :--- | :--- | :--- | :--- | :--- |
-| Fail2ban for Proxmox VE | Implementation Fail2ban for Proxmox VE Login, SSH | Professional | EN | [Learn](https://github.com/anggrdwjy/Fail2ban-ProxmoxVE) |
+| Build Own Hybrid Cloud | Build Hybrid Cloud on Premise | Professional | EN | [Learn](https://github.com/anggrdwjy/Library-Own-HybridCloud) |
+| Fail2ban for Proxmox VE | Fail2ban for Proxmox VE Login, SSH | Professional | EN | [Learn](https://github.com/anggrdwjy/Library-Fail2ban-ProxmoxVE) |
+| MikroTik CHR on VPS | Implementation MikroTik on VPS Proxmox | Professional | EN | (Learn)[https://github.com/anggrdwjy/Library-MikrotikCHR-VPS) |
 | Juniper Junos | Study Case OSPF, IS-IS, MPLS, BGP, EVPN, QoS, Firewall in Service Provider | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Junos-ServiceProvider) |
 | Cisco IOS-XR | Study Case OSPF, MPLS, BGP, Dual-Stack, Segment-Routing, EVPN in Service Provider | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Cisco-IOSXR-ServiceProvider) |
-| Cisco IOS-XE | Study Case OSPF, MPLS, BGP, L2VPN, L3VPN, VPLS, QoS in Service Provider | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Cisco-IOSXE-ServiceProvider) |
 | Fortinet NSE | Study Case Firewall, SDWAN, VPN, DMZ in Enterprise Network | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Fortinet-NSE) |
 | MTCINE | Study Case BGP, MPLS, Traffic-Engineering in Exam Lab Network | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCINE) |
-| MTCRE | Study Case Static Route, OSPF, VLAN, Qinq, VPN in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCRE) |
 | MTCIPV6E | Study Case IPV6 Protocol, Packet, Security in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCIPV6E) |
-| MTCSE | Study Case Security Firewall, Attack, Cryptography, Tunneling in Exam Lab Network | Professional | ID | [Learn](https://github.com/anggrdwjy/Library-MikroTik-MTCSE) |
