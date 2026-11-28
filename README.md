@@ -38,7 +38,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | Build Own Hybrid Cloud | Build Hybrid Cloud on Premise | Professional | EN | [Learn](https://github.com/anggrdwjy/Library-Own-HybridCloud) |
 | Fail2ban for Proxmox VE | Fail2ban for Proxmox VE Login, SSH | Professional | EN | [Learn](https://github.com/anggrdwjy/Library-Fail2ban-ProxmoxVE) |
-| MikroTik CHR on VPS | Implementation MikroTik on VPS Proxmox | Professional | EN | (Learn)[https://github.com/anggrdwjy/Library-MikrotikCHR-VPS) |
+| MikroTik CHR on VPS | Implementation MikroTik on VPS Proxmox | Professional | EN | [Learn](https://github.com/anggrdwjy/Library-MikrotikCHR-VPS) |
 | Juniper Junos | Study Case OSPF, IS-IS, MPLS, BGP, EVPN, QoS, Firewall in Service Provider | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Junos-ServiceProvider) |
 | Cisco IOS-XR | Study Case OSPF, MPLS, BGP, Dual-Stack, Segment-Routing, EVPN in Service Provider | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Cisco-IOSXR-ServiceProvider) |
 | Fortinet NSE | Study Case Firewall, SDWAN, VPN, DMZ in Enterprise Network | Expert | ID | [Learn](https://github.com/anggrdwjy/Library-Fortinet-NSE) |
